@@ -540,6 +540,27 @@ header.sticky {
   overflow-y: hidden;
 }
 
+a:link {
+  color:  #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color:  #ffffff;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: rgb(152, 165, 241);
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: rgb(22, 131, 82);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 
 
 
